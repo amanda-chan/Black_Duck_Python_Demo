@@ -1,0 +1,2 @@
+requests==2.19.1    # Known vulnerability: CVE-2018-18074
+flask==0.12         # Known vulnerability: CVE-2018-1000656
